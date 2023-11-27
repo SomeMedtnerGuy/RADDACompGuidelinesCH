@@ -74,7 +74,7 @@ hr {
     margin: 50px 0;
 }
 
-p, .panel {
+p, .panel, ul {
     letter-spacing: -1px;
     line-height: 170%;
     color: #1A1A1AA5;
@@ -119,6 +119,7 @@ p, .panel {
 
 ul {
     list-style-type: none;
+    text-align: left;
 }
 
 ul ul {
